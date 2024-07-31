@@ -1,4 +1,4 @@
-# بسم الله الرحمن الرحیم - Besme Allah, Alrahman, Alrahim
+# بسم الله الرحمن الرحیم - Besmellah, Alrahman, Alrahim
 
 ## CSharp Alla
 
